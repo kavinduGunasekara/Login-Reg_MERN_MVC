@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 // Database connection
-const connect = mongoose.connect("mongodb+srv://kavindu:0711549169@cluster0.lgjhpqg.mongodb.net/your-database-name?retryWrites=true&w=majority", {
+const connect = mongoose.connect("mongodb+srv://kavindu:--password--@cluster0.lgjhpqg.mongodb.net/your-database-name?retryWrites=true&w=majority", {
 
 });
 
